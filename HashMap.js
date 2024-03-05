@@ -172,3 +172,5 @@ class HashSet {
       return this.map.keys(); // Only keys are relevant for a set
   }
 }
+
+module.exports = { HashMap, HashSet };

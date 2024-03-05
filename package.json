@@ -1,0 +1,22 @@
+{
+  "name": "hashmap-js",
+  "version": "1.0.0",
+  "description": "HashMap Test",
+  "main": "HashMap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarrettAudet/HashMap-JS.git"
+  },
+  "author": "Garrett Audet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarrettAudet/HashMap-JS/issues"
+  },
+  "homepage": "https://github.com/GarrettAudet/HashMap-JS#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
